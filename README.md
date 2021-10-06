@@ -1,2 +1,3 @@
-# Birthday
-A birthday reminder of particular list of people
+## Idea
+
+[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
